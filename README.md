@@ -6,6 +6,8 @@
 
 <hr />
 
+**[Simple Demo](https://codesandbox.io/s/8qm6118v0)**
+
 **[Demo](https://codesandbox.io/s/wyk856yo48)**
 
 [![Build Status][build-badge]][build]
